@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **adi.levy.alalouf@gmail.com**
 
-- 📄 Know about my experiences [Recently graduates an intensive 640-hours Fullstack Bootcamp at "Coding Academy"](Recently graduates an intensive 640-hours Fullstack Bootcamp at "Coding Academy" and former Web Track Coordinator at she codes; organization.)
+- 📄 Know about my experiences: Recently graduates an intensive 640-hours Fullstack Bootcamp at "Coding Academy" and former Web Track Coordinator at she codes; organization.
 
 - ⚡ Fun fact **I can reach my nose with my tongue!**
 
