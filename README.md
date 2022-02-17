@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blue-vixen" alt="blue-vixen" /></a> </p>
 
-- 📫 How to reach me **adi.levy.alalouf@gmail.com**
+- 📫 **adi.levy.alalouf@gmail.com**
 
-- 📄 Know about my experiences: Recently graduates an intensive 640-hours Fullstack Bootcamp at "Coding Academy" and former Web Track Coordinator at she codes; organization.
+- 📄 Recently graduated an intensive 640-hours Fullstack Bootcamp at "Coding Academy". Former Web Track Coordinator at she codes; organization.
 
 - ⚡ Fun fact **I can reach my nose with my tongue!** Also, I have a passion for drawing with CSS, here's a little example (it's still work in progress though): https://codepen.io/bluevixen/pen/NWvKxgZ
 
