@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences: Recently graduates an intensive 640-hours Fullstack Bootcamp at "Coding Academy" and former Web Track Coordinator at she codes; organization.
 
-- ⚡ Fun fact **I can reach my nose with my tongue!**
+- ⚡ Fun fact **I can reach my nose with my tongue!** Also, I have a passion for drawing with CSS, here's a little example (it's still work in progress though): https://codepen.io/bluevixen/pen/NWvKxgZ
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
